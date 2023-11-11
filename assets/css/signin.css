@@ -1,0 +1,65 @@
+.full_page {
+	background-color: #dde2e5;
+	padding: 30px 0px;
+}
+.full_form {
+	width: 600px;
+	margin: 0 auto;
+}
+.form_logo {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.form_data {
+	background-color: #fff;
+	padding: 50px 50px 30px;
+	box-shadow: 0 .1rem 1rem .25rem #0000000d!important;
+	border-radius: 20px;
+}
+.form_data .note {
+	background-color: #fff8dd;
+	border-radius: 10px;
+	border: 1px solid #ffc700;
+	padding: 30px;
+	margin-top: 20px;
+}
+.form_data form {
+	margin-top: 30px;
+}
+.form_data form label {
+	display: block;
+	margin-bottom: 5px;
+}
+.form_data form input[type='text'], input[type='password'] {
+	width: 100%;
+	padding: 5px;
+	border-radius: 6px;
+	background-color: #f5f8fa;
+	border: 1px solid #f5f8fa;
+	margin-bottom: 5px;
+}
+.nbtn {
+	color: #50cd89;
+	font-weight: bolder;
+	font-size: 18px;
+}
+.cbtn {
+	width: 100%;
+	padding: 6px 20px;
+	text-align: center;
+	border-radius: 6px;
+	border: 1px solid #50cd89;
+	background-color: #50cd89;
+	margin-top: 20px;
+}
+
+.ccbtn {
+	width: 100%;
+	padding: 6px 20px;
+	text-align: center;
+	border-radius: 6px;
+	border: 1px solid #50cd89;
+	background-color: #50cd89;
+	margin-top: 20px;
+	opacity: 0.5;
+}
