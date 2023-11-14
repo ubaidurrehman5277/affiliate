@@ -48,7 +48,7 @@ class FrontendController extends Controller
             $adds = json_decode($ads,true);
             $alladds = $adds['data']; 
          // return $ads->json()['data'];
-            dd($alladds);
+            // dd($alladds);
         return view('adds',compact('alladds'));
     }
 
